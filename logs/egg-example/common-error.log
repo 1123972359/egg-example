@@ -1,0 +1,870 @@
+2021-09-29 11:11:05,547 ERROR 2631 [-/116.23.93.217/-/18ms GET /scp/login] nodejs.TypeError: The "string" argument must be of type string or an instance of Buffer or ArrayBuffer. Received undefined
+    at new NodeError (node:internal/errors:371:5)
+    at Function.byteLength (node:buffer:734:11)
+    at respond (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:281:25)
+    at handleResponse (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 2631
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 11:11:19,380 ERROR 2631 [-/116.23.93.217/-/2ms GET /scp/login] nodejs.TypeError: The "string" argument must be of type string or an instance of Buffer or ArrayBuffer. Received undefined
+    at new NodeError (node:internal/errors:371:5)
+    at Function.byteLength (node:buffer:734:11)
+    at respond (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:281:25)
+    at handleResponse (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 2631
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 11:14:47,389 ERROR 3383 [-/116.23.93.217/-/7ms GET /scp/login] nodejs.TypeError: The "string" argument must be of type string or an instance of Buffer or ArrayBuffer. Received undefined
+    at new NodeError (node:internal/errors:371:5)
+    at Function.byteLength (node:buffer:734:11)
+    at respond (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:281:25)
+    at handleResponse (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 3383
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 11:15:16,143 ERROR 3567 [-/116.23.93.217/-/7ms GET /scp/login] nodejs.TypeError: The "string" argument must be of type string or an instance of Buffer or ArrayBuffer. Received undefined
+    at new NodeError (node:internal/errors:371:5)
+    at Function.byteLength (node:buffer:734:11)
+    at respond (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:281:25)
+    at handleResponse (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 3567
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 11:15:16,759 ERROR 3567 [-/116.23.93.217/-/2ms GET /scp/login] nodejs.TypeError: The "string" argument must be of type string or an instance of Buffer or ArrayBuffer. Received undefined
+    at new NodeError (node:internal/errors:371:5)
+    at Function.byteLength (node:buffer:734:11)
+    at respond (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:281:25)
+    at handleResponse (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 3567
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 11:15:16,963 ERROR 3567 [-/116.23.93.217/-/1ms GET /scp/login] nodejs.TypeError: The "string" argument must be of type string or an instance of Buffer or ArrayBuffer. Received undefined
+    at new NodeError (node:internal/errors:371:5)
+    at Function.byteLength (node:buffer:734:11)
+    at respond (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:281:25)
+    at handleResponse (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 3567
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 11:15:52,958 ERROR 3612 [-/116.23.93.217/-/6ms GET /scp/login] nodejs.TypeError: The "string" argument must be of type string or an instance of Buffer or ArrayBuffer. Received undefined
+    at new NodeError (node:internal/errors:371:5)
+    at Function.byteLength (node:buffer:734:11)
+    at respond (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:281:25)
+    at handleResponse (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 3612
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 11:16:01,701 ERROR 3612 [-/116.23.93.217/-/2ms GET /scp/login] nodejs.TypeError: The "string" argument must be of type string or an instance of Buffer or ArrayBuffer. Received undefined
+    at new NodeError (node:internal/errors:371:5)
+    at Function.byteLength (node:buffer:734:11)
+    at respond (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:281:25)
+    at handleResponse (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 3612
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 11:16:09,500 ERROR 3612 [-/116.23.93.217/-/1ms GET /scp/login] nodejs.TypeError: The "string" argument must be of type string or an instance of Buffer or ArrayBuffer. Received undefined
+    at new NodeError (node:internal/errors:371:5)
+    at Function.byteLength (node:buffer:734:11)
+    at respond (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:281:25)
+    at handleResponse (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 3612
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 11:19:46,251 ERROR 4340 [-/116.23.93.217/-/2ms GET /scp/login] nodejs.TypeError: The "string" argument must be of type string or an instance of Buffer or ArrayBuffer. Received undefined
+    at new NodeError (node:internal/errors:371:5)
+    at Function.byteLength (node:buffer:734:11)
+    at respond (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:281:25)
+    at handleResponse (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 4340
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 11:20:15,053 ERROR 4477 [-/116.23.93.217/-/7ms GET /scp/login] nodejs.TypeError: The "string" argument must be of type string or an instance of Buffer or ArrayBuffer. Received undefined
+    at new NodeError (node:internal/errors:371:5)
+    at Function.byteLength (node:buffer:734:11)
+    at respond (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:281:25)
+    at handleResponse (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 4477
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 11:20:16,702 ERROR 4477 [-/116.23.93.217/-/2ms GET /scp/login] nodejs.TypeError: The "string" argument must be of type string or an instance of Buffer or ArrayBuffer. Received undefined
+    at new NodeError (node:internal/errors:371:5)
+    at Function.byteLength (node:buffer:734:11)
+    at respond (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:281:25)
+    at handleResponse (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 4477
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 11:20:25,128 ERROR 4498 [-/116.23.93.217/-/10ms GET /scp/login] nodejs.TypeError: The "string" argument must be of type string or an instance of Buffer or ArrayBuffer. Received undefined
+    at new NodeError (node:internal/errors:371:5)
+    at Function.byteLength (node:buffer:734:11)
+    at respond (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:281:25)
+    at handleResponse (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 4498
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 11:20:25,755 ERROR 4498 [-/116.23.93.217/-/1ms GET /scp/login] nodejs.TypeError: The "string" argument must be of type string or an instance of Buffer or ArrayBuffer. Received undefined
+    at new NodeError (node:internal/errors:371:5)
+    at Function.byteLength (node:buffer:734:11)
+    at respond (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:281:25)
+    at handleResponse (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 4498
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 11:20:52,741 ERROR 4591 [-/116.23.93.217/-/7ms GET /scp/login] nodejs.TypeError: The "string" argument must be of type string or an instance of Buffer or ArrayBuffer. Received undefined
+    at new NodeError (node:internal/errors:371:5)
+    at Function.byteLength (node:buffer:734:11)
+    at respond (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:281:25)
+    at handleResponse (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 4591
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 11:22:03,066 ERROR 4892 [-/116.23.93.217/-/14ms GET /scp/login] nodejs.TypeError: The "string" argument must be of type string or an instance of Buffer or ArrayBuffer. Received undefined
+    at new NodeError (node:internal/errors:371:5)
+    at Function.byteLength (node:buffer:734:11)
+    at respond (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:281:25)
+    at handleResponse (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 4892
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 11:22:36,130 ERROR 5061 [-/116.23.93.217/-/15ms GET /scp/login] nodejs.TypeError: The "string" argument must be of type string or an instance of Buffer or ArrayBuffer. Received undefined
+    at new NodeError (node:internal/errors:371:5)
+    at Function.byteLength (node:buffer:734:11)
+    at respond (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:281:25)
+    at handleResponse (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 5061
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 11:22:36,860 ERROR 5061 [-/116.23.93.217/-/1ms GET /scp/login] nodejs.TypeError: The "string" argument must be of type string or an instance of Buffer or ArrayBuffer. Received undefined
+    at new NodeError (node:internal/errors:371:5)
+    at Function.byteLength (node:buffer:734:11)
+    at respond (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:281:25)
+    at handleResponse (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 5061
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 11:22:55,251 ERROR 5137 [-/116.23.93.217/-/7ms GET /scp/login] nodejs.TypeError: The "string" argument must be of type string or an instance of Buffer or ArrayBuffer. Received undefined
+    at new NodeError (node:internal/errors:371:5)
+    at Function.byteLength (node:buffer:734:11)
+    at respond (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:281:25)
+    at handleResponse (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 5137
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 11:23:01,743 ERROR 5137 [-/116.23.93.217/-/2ms GET /scp/login] nodejs.TypeError: The "string" argument must be of type string or an instance of Buffer or ArrayBuffer. Received undefined
+    at new NodeError (node:internal/errors:371:5)
+    at Function.byteLength (node:buffer:734:11)
+    at respond (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:281:25)
+    at handleResponse (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 5137
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 11:23:02,390 ERROR 5137 [-/116.23.93.217/-/0ms GET /scp/login] nodejs.TypeError: The "string" argument must be of type string or an instance of Buffer or ArrayBuffer. Received undefined
+    at new NodeError (node:internal/errors:371:5)
+    at Function.byteLength (node:buffer:734:11)
+    at respond (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:281:25)
+    at handleResponse (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 5137
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 11:23:05,647 ERROR 5137 [-/116.23.93.217/-/1ms GET /scp/login] nodejs.TypeError: The "string" argument must be of type string or an instance of Buffer or ArrayBuffer. Received undefined
+    at new NodeError (node:internal/errors:371:5)
+    at Function.byteLength (node:buffer:734:11)
+    at respond (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:281:25)
+    at handleResponse (/usr/code-server/server/egg-example/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 5137
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 15:34:27,793 ERROR 11866 [-/116.23.93.217/-/22ms POST /scp/scpUpload] nodejs.TypeError: ctx.getfileStream is not a function
+    at ScpController.scpUpload (/usr/code-server/server/egg-example/app/controller/scp.js:25:30)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /usr/code-server/server/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/usr/code-server/server/egg-example/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/usr/code-server/server/egg-example/node_modules/koa-bodyparser/index.js:95:5)
+    at async /usr/code-server/server/egg-example/node_modules/koa-static-cache/index.js:39:63
+
+pid: 11866
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 16:13:55,323 ERROR 18057 [-/116.23.93.217/-/14ms POST /scp/scpUpload] nodejs.TypeError: Callback must be a function. Received undefined
+    at maybeCallback (node:fs:177:3)
+    at Object.readFile (node:fs:374:14)
+    at ScpService.scpUpload (/usr/code-server/server/egg-example/app/service/scp.js:37:22)
+    at ScpController.scpUpload (/usr/code-server/server/egg-example/app/controller/scp.js:24:39)
+    at Object.callFn (/usr/code-server/server/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/usr/code-server/server/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/usr/code-server/server/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/usr/code-server/server/egg-example/node_modules/koa-compose/index.js:45:18)
+code: "ERR_INVALID_CALLBACK"
+pid: 18057
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 16:14:12,975 ERROR 18081 [-/116.23.93.217/-/15ms POST /scp/scpUpload] nodejs.TypeError: The argument 'path' must be a string or Uint8Array without null bytes. Received "\x1F�\b\x00\x00\x00\x00\x00\x00\x03��1\x0E�0\f@Q\x1F%'\x00��1�A��J����RF� \x10�-�����|_�Y��M��\x16�p;ރX���z�y��)&I>���s��GJbQ��...
+    at Object.readFile (node:fs:393:10)
+    at ScpService.scpUpload (/usr/code-server/server/egg-example/app/service/scp.js:37:22)
+    at ScpController.scpUpload (/usr/code-server/server/egg-example/app/controller/scp.js:24:39)
+    at Object.callFn (/usr/code-server/server/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/usr/code-server/server/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/usr/code-server/server/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/usr/code-server/server/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+code: "ERR_INVALID_ARG_VALUE"
+pid: 18081
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 16:14:30,969 ERROR 18245 [-/116.23.93.217/-/14ms POST /scp/scpUpload] nodejs.TypeError: The argument 'path' must be a string or Uint8Array without null bytes. Received "\x1F�\b\x00\x00\x00\x00\x00\x00\x03��1\x0E�0\f@Q\x1F%'\x00��1�A��J����RF� \x10�-�����|_�Y��M��\x16�p;ރX���z�y��)&I>���s��GJbQ��...
+    at Object.readFile (node:fs:393:10)
+    at ScpService.scpUpload (/usr/code-server/server/egg-example/app/service/scp.js:40:22)
+    at ScpController.scpUpload (/usr/code-server/server/egg-example/app/controller/scp.js:24:39)
+    at Object.callFn (/usr/code-server/server/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/usr/code-server/server/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/usr/code-server/server/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/usr/code-server/server/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+code: "ERR_INVALID_ARG_VALUE"
+pid: 18245
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 16:16:15,536 ERROR 18502 [-/116.23.93.217/-/16ms POST /scp/scpUpload] nodejs.TypeError: The argument 'path' must be a string or Uint8Array without null bytes. Received "\x1F�\b\x00\x00\x00\x00\x00\x00\x03��1\x0E�0\f@Q\x1F%'\x00��1�A��J����RF� \x10�-�����|_�Y��M��\x16�p;ރX���z�y��)&I>���s��GJbQ��...
+    at new ReadStream (node:internal/fs/streams:171:5)
+    at Object.createReadStream (node:fs:2869:10)
+    at ScpService.scpUpload (/usr/code-server/server/egg-example/app/service/scp.js:40:27)
+    at ScpController.scpUpload (/usr/code-server/server/egg-example/app/controller/scp.js:24:39)
+    at Object.callFn (/usr/code-server/server/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/usr/code-server/server/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/usr/code-server/server/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/usr/code-server/server/egg-example/node_modules/koa-compose/index.js:45:18)
+code: "ERR_INVALID_ARG_VALUE"
+pid: 18502
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 16:16:50,849 ERROR 18650 [-/116.23.93.217/-/15ms POST /scp/scpUpload] nodejs.TypeError: The argument 'path' must be a string or Uint8Array without null bytes. Received "\x1F�\b\x00\x00\x00\x00\x00\x00\x03��1\x0E�0\f@Q\x1F%'\x00��1�A��J����RF� \x10�-�����|_�Y��M��\x16�p;ރX���z�y��)&I>���s��GJbQ��...
+    at new ReadStream (node:internal/fs/streams:171:5)
+    at Object.createReadStream (node:fs:2869:10)
+    at ScpService.scpUpload (/usr/code-server/server/egg-example/app/service/scp.js:40:27)
+    at ScpController.scpUpload (/usr/code-server/server/egg-example/app/controller/scp.js:24:39)
+    at Object.callFn (/usr/code-server/server/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/usr/code-server/server/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/usr/code-server/server/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/usr/code-server/server/egg-example/node_modules/koa-compose/index.js:45:18)
+code: "ERR_INVALID_ARG_VALUE"
+pid: 18650
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 16:16:58,429 ERROR 18650 [-/116.23.93.217/-/2ms POST /scp/scpUpload] nodejs.TypeError: The argument 'path' must be a string or Uint8Array without null bytes. Received "\x1F�\b\x00\x00\x00\x00\x00\x00\x03��1\x0E�0\f@Q\x1F%'\x00��1�A��J����RF� \x10�-�����|_�Y��M��\x16�p;ރX���z�y��)&I>���s��GJbQ��...
+    at new ReadStream (node:internal/fs/streams:171:5)
+    at Object.createReadStream (node:fs:2869:10)
+    at ScpService.scpUpload (/usr/code-server/server/egg-example/app/service/scp.js:40:27)
+    at ScpController.scpUpload (/usr/code-server/server/egg-example/app/controller/scp.js:24:39)
+    at Object.callFn (/usr/code-server/server/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/usr/code-server/server/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/usr/code-server/server/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/usr/code-server/server/egg-example/node_modules/koa-compose/index.js:45:18)
+code: "ERR_INVALID_ARG_VALUE"
+pid: 18650
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 18:15:49,984 ERROR 4368 nodejs.EISDIRError: EISDIR: illegal operation on a directory, open '/usr/code-server/server/egg-example/app/public' (uncaughtException throw 1 times on pid:4368)
+EISDIRError: EISDIR: illegal operation on a directory, open '/usr/code-server/server/egg-example/app/public' (uncaughtException throw 1 times on pid:4368)
+errno: -21
+code: "EISDIR"
+syscall: "open"
+path: "/usr/code-server/server/egg-example/app/public"
+name: "EISDIRError"
+pid: 4368
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 18:16:07,426 ERROR 4398 nodejs.EISDIRError: EISDIR: illegal operation on a directory, open '/usr/code-server/server/egg-example/app/public' (uncaughtException throw 1 times on pid:4398)
+EISDIRError: EISDIR: illegal operation on a directory, open '/usr/code-server/server/egg-example/app/public' (uncaughtException throw 1 times on pid:4398)
+errno: -21
+code: "EISDIR"
+syscall: "open"
+path: "/usr/code-server/server/egg-example/app/public"
+name: "EISDIRError"
+pid: 4398
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 18:18:50,354 ERROR 4986 [-/116.23.93.217/-/14ms POST /scp/scpUpload] nodejs.ReferenceError: filePath is not defined
+    at ScpService.scpUpload (/usr/code-server/server/egg-example/app/service/scp.js:49:18)
+    at ScpController.scpUpload (/usr/code-server/server/egg-example/app/controller/scp.js:24:39)
+    at Object.callFn (/usr/code-server/server/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/usr/code-server/server/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/usr/code-server/server/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/usr/code-server/server/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/usr/code-server/server/egg-example/node_modules/koa-compose/index.js:44:32)
+
+pid: 4986
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 18:19:09,080 ERROR 5009 [-/116.23.93.217/-/15ms POST /scp/scpUpload] nodejs.ReferenceError: filePath is not defined
+    at ScpService.scpUpload (/usr/code-server/server/egg-example/app/service/scp.js:49:18)
+    at ScpController.scpUpload (/usr/code-server/server/egg-example/app/controller/scp.js:24:39)
+    at Object.callFn (/usr/code-server/server/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/usr/code-server/server/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/usr/code-server/server/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/usr/code-server/server/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/usr/code-server/server/egg-example/node_modules/koa-compose/index.js:44:32)
+
+pid: 5009
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 18:55:03,868 ERROR 14969 nodejs.AssertionError: Can't find /usr/code-server/server/egg-example/public/dist/index.html from 
+    at Map.resolve (/usr/code-server/server/egg-example/node_modules/egg-view/lib/view_manager.js:74:5)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async ContextView.[contextView#render] (/usr/code-server/server/egg-example/node_modules/egg-view/lib/context_view.js:50:22)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 14969
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 18:55:48,335 ERROR 15122 nodejs.AssertionError: Can't find undefined from 
+    at Map.resolve (/usr/code-server/server/egg-example/node_modules/egg-view/lib/view_manager.js:74:5)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async ContextView.[contextView#render] (/usr/code-server/server/egg-example/node_modules/egg-view/lib/context_view.js:50:22)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 15122
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 18:55:50,011 ERROR 15122 nodejs.AssertionError: Can't find undefined from 
+    at Map.resolve (/usr/code-server/server/egg-example/node_modules/egg-view/lib/view_manager.js:74:5)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async ContextView.[contextView#render] (/usr/code-server/server/egg-example/node_modules/egg-view/lib/context_view.js:50:22)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 15122
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-29 18:58:38,925 ERROR 15602 nodejs.AssertionError: Can't find viewEngine for /usr/code-server/server/egg-example/app/view/dist/index.html
+    at ContextView.[contextView#render] (/usr/code-server/server/egg-example/node_modules/egg-view/lib/context_view.js:66:5)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 15602
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-30 10:44:40,030 ERROR 20566 [-/116.23.92.93/-/6ms POST /scp/scpUpload] nodejs.Error: Multipart: Boundary not found
+    at new Multipart (/usr/code-server/server/egg-example/node_modules/busboy/lib/types/multipart.js:58:11)
+    at Multipart (/usr/code-server/server/egg-example/node_modules/busboy/lib/types/multipart.js:26:12)
+    at Busboy.parseHeaders (/usr/code-server/server/egg-example/node_modules/busboy/lib/main.js:71:22)
+    at new Busboy (/usr/code-server/server/egg-example/node_modules/busboy/lib/main.js:22:10)
+    at module.exports (/usr/code-server/server/egg-example/node_modules/co-busboy/index.js:32:16)
+    at Object.multipart (/usr/code-server/server/egg-example/node_modules/egg-multipart/app/extend/context.js:199:12)
+    at Object.getFileStream (/usr/code-server/server/egg-example/node_modules/egg-multipart/app/extend/context.js:227:24)
+    at ScpController.scpUpload (/usr/code-server/server/egg-example/app/controller/scp.js:24:30)
+    at Object.callFn (/usr/code-server/server/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/usr/code-server/server/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+
+pid: 20566
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-30 10:46:05,368 ERROR 20786 [-/116.23.92.93/-/12ms POST /scp/scpUpload] nodejs.Error: Multipart: Boundary not found
+    at new Multipart (/usr/code-server/server/egg-example/node_modules/busboy/lib/types/multipart.js:58:11)
+    at Multipart (/usr/code-server/server/egg-example/node_modules/busboy/lib/types/multipart.js:26:12)
+    at Busboy.parseHeaders (/usr/code-server/server/egg-example/node_modules/busboy/lib/main.js:71:22)
+    at new Busboy (/usr/code-server/server/egg-example/node_modules/busboy/lib/main.js:22:10)
+    at module.exports (/usr/code-server/server/egg-example/node_modules/co-busboy/index.js:32:16)
+    at Object.multipart (/usr/code-server/server/egg-example/node_modules/egg-multipart/app/extend/context.js:199:12)
+    at Object.getFileStream (/usr/code-server/server/egg-example/node_modules/egg-multipart/app/extend/context.js:227:24)
+    at ScpController.scpUpload (/usr/code-server/server/egg-example/app/controller/scp.js:24:30)
+    at Object.callFn (/usr/code-server/server/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/usr/code-server/server/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+
+pid: 20786
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-30 10:55:44,966 ERROR 21408 [-/116.23.92.93/-/9ms POST /scp/scpUpload] nodejs.Error: Multipart: Boundary not found
+    at new Multipart (/usr/code-server/server/egg-example/node_modules/busboy/lib/types/multipart.js:58:11)
+    at Multipart (/usr/code-server/server/egg-example/node_modules/busboy/lib/types/multipart.js:26:12)
+    at Busboy.parseHeaders (/usr/code-server/server/egg-example/node_modules/busboy/lib/main.js:71:22)
+    at new Busboy (/usr/code-server/server/egg-example/node_modules/busboy/lib/main.js:22:10)
+    at module.exports (/usr/code-server/server/egg-example/node_modules/co-busboy/index.js:32:16)
+    at Object.multipart (/usr/code-server/server/egg-example/node_modules/egg-multipart/app/extend/context.js:199:12)
+    at Object.getFileStream (/usr/code-server/server/egg-example/node_modules/egg-multipart/app/extend/context.js:227:24)
+    at ScpController.scpUpload (/usr/code-server/server/egg-example/app/controller/scp.js:24:30)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /usr/code-server/server/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+
+pid: 21408
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-30 10:56:12,324 ERROR 21408 [-/116.23.92.93/-/2ms POST /scp/scpUpload] nodejs.Error: Multipart: Boundary not found
+    at new Multipart (/usr/code-server/server/egg-example/node_modules/busboy/lib/types/multipart.js:58:11)
+    at Multipart (/usr/code-server/server/egg-example/node_modules/busboy/lib/types/multipart.js:26:12)
+    at Busboy.parseHeaders (/usr/code-server/server/egg-example/node_modules/busboy/lib/main.js:71:22)
+    at new Busboy (/usr/code-server/server/egg-example/node_modules/busboy/lib/main.js:22:10)
+    at module.exports (/usr/code-server/server/egg-example/node_modules/co-busboy/index.js:32:16)
+    at Object.multipart (/usr/code-server/server/egg-example/node_modules/egg-multipart/app/extend/context.js:199:12)
+    at Object.getFileStream (/usr/code-server/server/egg-example/node_modules/egg-multipart/app/extend/context.js:227:24)
+    at ScpController.scpUpload (/usr/code-server/server/egg-example/app/controller/scp.js:24:30)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /usr/code-server/server/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+
+pid: 21408
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-30 11:55:05,822 ERROR 31274 [-/116.23.92.93/-/7ms POST /scp/scpUpload] nodejs.ReferenceError: stream is not defined
+    at ScpController.scpUpload (/usr/code-server/server/egg-example/app/controller/scp.js:25:17)
+    at Object.callFn (/usr/code-server/server/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/usr/code-server/server/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/usr/code-server/server/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/usr/code-server/server/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/usr/code-server/server/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /usr/code-server/server/egg-example/node_modules/koa-compose/index.js:36:12
+
+pid: 31274
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-30 11:58:33,798 ERROR 31920 [-/116.23.92.93/-/10ms POST /scp/scpUpload] nodejs.TypeError: the multipart request can't be consumed twice
+    at Object.multipart (/usr/code-server/server/egg-example/node_modules/egg-multipart/app/extend/context.js:181:35)
+    at Object.getFileStream (/usr/code-server/server/egg-example/node_modules/egg-multipart/app/extend/context.js:227:24)
+    at ScpController.scpUpload (/usr/code-server/server/egg-example/app/controller/scp.js:24:30)
+    at Object.callFn (/usr/code-server/server/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/usr/code-server/server/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/usr/code-server/server/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/usr/code-server/server/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+
+pid: 31920
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-30 11:59:03,133 ERROR 31920 [-/116.23.92.93/-/3ms POST /scp/scpUpload] nodejs.TypeError: the multipart request can't be consumed twice
+    at Object.multipart (/usr/code-server/server/egg-example/node_modules/egg-multipart/app/extend/context.js:181:35)
+    at Object.getFileStream (/usr/code-server/server/egg-example/node_modules/egg-multipart/app/extend/context.js:227:24)
+    at ScpController.scpUpload (/usr/code-server/server/egg-example/app/controller/scp.js:24:30)
+    at Object.callFn (/usr/code-server/server/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/usr/code-server/server/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/usr/code-server/server/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/usr/code-server/server/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+
+pid: 31920
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-30 12:00:28,686 ERROR 32212 [-/116.23.92.93/-/11ms POST /scp/scpUpload] nodejs.TypeError: the multipart request can't be consumed twice
+    at Object.multipart (/usr/code-server/server/egg-example/node_modules/egg-multipart/app/extend/context.js:181:35)
+    at Object.getFileStream (/usr/code-server/server/egg-example/node_modules/egg-multipart/app/extend/context.js:227:24)
+    at ScpController.scpUpload (/usr/code-server/server/egg-example/app/controller/scp.js:24:30)
+    at Object.callFn (/usr/code-server/server/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/usr/code-server/server/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/usr/code-server/server/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/usr/code-server/server/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+
+pid: 32212
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-30 14:18:26,558 ERROR 19911 [-/116.23.92.93/-/9ms POST /scp/scpUpload] nodejs.TypeError: the multipart request can't be consumed twice
+    at Object.multipart (/usr/code-server/server/egg-example/node_modules/egg-multipart/app/extend/context.js:181:35)
+    at Object.getFileStream (/usr/code-server/server/egg-example/node_modules/egg-multipart/app/extend/context.js:227:24)
+    at ScpController.scpUpload (/usr/code-server/server/egg-example/app/controller/scp.js:23:30)
+    at Object.callFn (/usr/code-server/server/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/usr/code-server/server/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/usr/code-server/server/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/usr/code-server/server/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+
+pid: 19911
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-30 15:35:13,131 ERROR 30974 [-/116.23.92.93/-/10ms POST /scp/scpUpload] nodejs.TypeError: the multipart request can't be consumed twice
+    at Object.multipart (/usr/code-server/server/egg-example/node_modules/egg-multipart/app/extend/context.js:181:35)
+    at Object.getFileStream (/usr/code-server/server/egg-example/node_modules/egg-multipart/app/extend/context.js:227:24)
+    at ScpController.scpUpload (/usr/code-server/server/egg-example/app/controller/scp.js:23:30)
+    at Object.callFn (/usr/code-server/server/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/usr/code-server/server/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/usr/code-server/server/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/usr/code-server/server/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+
+pid: 30974
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-30 15:58:19,115 ERROR 2143 [-/116.23.92.93/-/6ms POST /scp/scpUpload] nodejs.MODULE_NOT_FOUNDError: Cannot find module 'tmp'
+Require stack:
+- /usr/code-server/server/egg-example/app/controller/scp.js
+- /usr/code-server/server/egg-example/node_modules/egg-core/lib/utils/index.js
+- /usr/code-server/server/egg-example/node_modules/egg-core/lib/egg.js
+- /usr/code-server/server/egg-example/node_modules/egg-core/index.js
+- /usr/code-server/server/egg-example/node_modules/egg/lib/application.js
+- /usr/code-server/server/egg-example/node_modules/egg/index.js
+- /usr/code-server/server/egg-example/node_modules/egg-cluster/lib/app_worker.js
+Require stack:
+- /usr/code-server/server/egg-example/app/controller/scp.js
+- /usr/code-server/server/egg-example/node_modules/egg-core/lib/utils/index.js
+- /usr/code-server/server/egg-example/node_modules/egg-core/lib/egg.js
+- /usr/code-server/server/egg-example/node_modules/egg-core/index.js
+- /usr/code-server/server/egg-example/node_modules/egg/lib/application.js
+- /usr/code-server/server/egg-example/node_modules/egg/index.js
+- /usr/code-server/server/egg-example/node_modules/egg-cluster/lib/app_worker.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at ScpController.multipart (/usr/code-server/server/egg-example/app/controller/scp.js:37:17)
+    at ScpController.scpUpload (/usr/code-server/server/egg-example/app/controller/scp.js:26:40)
+    at Object.callFn (/usr/code-server/server/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/usr/code-server/server/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/usr/code-server/server/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+code: "MODULE_NOT_FOUND"
+requireStack: ["/usr/code-server/server/egg-example/app/controller/scp.js","/usr/code-server/server/egg-example/node_modules/egg-core/lib/utils/index.js","/usr/code-server/server/egg-example/node_modules/egg-core/lib/egg.js","/usr/code-server/server/egg-example/node_modules/egg-core/index.js","/usr/code-server/server/egg-example/node_modules/egg/lib/application.js","/usr/code-server/server/egg-example/node_modules/egg/index.js","/usr/code-server/server/egg-example/node_modules/egg-cluster/lib/app_worker.js"]
+name: "MODULE_NOT_FOUNDError"
+pid: 2143
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-30 16:24:35,512 ERROR 6017 [-/116.23.92.93/-/11ms POST /scp/scpUpload] nodejs.ReferenceError: path is not defined
+    at ScpController.scpUpload (/usr/code-server/server/egg-example/app/controller/scp.js:24:42)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /usr/code-server/server/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/usr/code-server/server/egg-example/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/usr/code-server/server/egg-example/node_modules/koa-bodyparser/index.js:95:5)
+    at async /usr/code-server/server/egg-example/node_modules/koa-static-cache/index.js:39:63
+
+pid: 6017
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-30 16:27:59,905 ERROR 6621 [-/116.23.92.93/-/16ms POST /scp/scpUpload] nodejs.SyntaxError: Unexpected token o in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at ScpService.scpUpload (/usr/code-server/server/egg-example/app/service/scp.js:39:25)
+    at ScpController.scpUpload (/usr/code-server/server/egg-example/app/controller/scp.js:29:39)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /usr/code-server/server/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/usr/code-server/server/egg-example/node_modules/koa-session/index.js:41:7)
+
+pid: 6621
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-30 16:31:44,575 ERROR 7348 [-/116.23.92.93/-/48ms POST /scp/scpUpload] nodejs.TypeError: The "chunk" argument must be of type string or an instance of Buffer or Uint8Array. Received an instance of FileStream
+    at new NodeError (node:internal/errors:371:5)
+    at _write (node:internal/streams/writable:312:13)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at ScpService.scpUpload (/usr/code-server/server/egg-example/app/service/scp.js:41:18)
+    at ScpController.scpUpload (/usr/code-server/server/egg-example/app/controller/scp.js:29:39)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /usr/code-server/server/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 7348
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-30 16:37:11,424 ERROR 8699 [-/116.23.92.93/-/221ms POST /scp/scpUpload] nodejs.ReferenceError: streamToBuffer is not defined
+    at ScpService.scpUpload (/usr/code-server/server/egg-example/app/service/scp.js:49:20)
+    at ScpController.scpUpload (/usr/code-server/server/egg-example/app/controller/scp.js:29:39)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /usr/code-server/server/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/usr/code-server/server/egg-example/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/usr/code-server/server/egg-example/node_modules/koa-bodyparser/index.js:95:5)
+
+pid: 8699
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-30 16:38:23,474 ERROR 9049 [-/116.23.92.93/-/12ms POST /scp/scpUpload] nodejs.ReferenceError: streamToBuffer is not defined
+    at ScpService.scpUpload (/usr/code-server/server/egg-example/app/service/scp.js:47:20)
+    at ScpController.scpUpload (/usr/code-server/server/egg-example/app/controller/scp.js:29:39)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /usr/code-server/server/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/usr/code-server/server/egg-example/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/usr/code-server/server/egg-example/node_modules/koa-bodyparser/index.js:95:5)
+
+pid: 9049
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-30 16:39:05,084 ERROR 9224 [-/116.23.92.93/-/12ms POST /scp/scpUpload] nodejs.ReferenceError: ctx is not defined
+    at ScpService.scpUpload (/usr/code-server/server/egg-example/app/service/scp.js:47:20)
+    at ScpController.scpUpload (/usr/code-server/server/egg-example/app/controller/scp.js:29:39)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /usr/code-server/server/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/usr/code-server/server/egg-example/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/usr/code-server/server/egg-example/node_modules/koa-bodyparser/index.js:95:5)
+
+pid: 9224
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-30 16:39:23,197 ERROR 9251 [-/116.23.92.93/-/13ms POST /scp/scpUpload] nodejs.TypeError: this.ctx.streamToBuffer is not a function
+    at ScpService.scpUpload (/usr/code-server/server/egg-example/app/service/scp.js:47:35)
+    at ScpController.scpUpload (/usr/code-server/server/egg-example/app/controller/scp.js:29:39)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /usr/code-server/server/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/usr/code-server/server/egg-example/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/usr/code-server/server/egg-example/node_modules/koa-bodyparser/index.js:95:5)
+
+pid: 9251
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-30 16:51:34,590 ERROR 11233 nodejs.AssertionError: Can't find viewEngine for /usr/code-server/server/egg-example/app/view/dist/index.html
+    at ContextView.[contextView#render] (/usr/code-server/server/egg-example/node_modules/egg-view/lib/context_view.js:66:5)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 11233
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-30 16:51:57,931 ERROR 11382 nodejs.AssertionError: Can't find home/index.html from /usr/code-server/server/egg-example/app/view
+    at Map.resolve (/usr/code-server/server/egg-example/node_modules/egg-view/lib/view_manager.js:74:5)
+    at async ContextView.[contextView#render] (/usr/code-server/server/egg-example/node_modules/egg-view/lib/context_view.js:50:22)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 11382
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-30 16:51:58,518 ERROR 11382 nodejs.AssertionError: Can't find home/index.html from /usr/code-server/server/egg-example/app/view
+    at Map.resolve (/usr/code-server/server/egg-example/node_modules/egg-view/lib/view_manager.js:74:5)
+    at async ContextView.[contextView#render] (/usr/code-server/server/egg-example/node_modules/egg-view/lib/context_view.js:50:22)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 11382
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-30 16:51:58,743 ERROR 11396 nodejs.AssertionError: Can't find viewEngine for /usr/code-server/server/egg-example/app/view/home/index.tpl
+    at ContextView.[contextView#render] (/usr/code-server/server/egg-example/node_modules/egg-view/lib/context_view.js:66:5)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 11396
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-30 16:55:59,939 ERROR 12161 nodejs.AssertionError: Can't find hoome/index from /usr/code-server/server/egg-example/app/view
+    at Map.resolve (/usr/code-server/server/egg-example/node_modules/egg-view/lib/view_manager.js:74:5)
+    at async ContextView.[contextView#render] (/usr/code-server/server/egg-example/node_modules/egg-view/lib/context_view.js:50:22)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 12161
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-30 16:56:00,532 ERROR 12161 nodejs.AssertionError: Can't find hoome/index from /usr/code-server/server/egg-example/app/view
+    at Map.resolve (/usr/code-server/server/egg-example/node_modules/egg-view/lib/view_manager.js:74:5)
+    at async ContextView.[contextView#render] (/usr/code-server/server/egg-example/node_modules/egg-view/lib/context_view.js:50:22)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 12161
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-30 16:56:00,754 ERROR 12161 nodejs.AssertionError: Can't find hoome/index from /usr/code-server/server/egg-example/app/view
+    at Map.resolve (/usr/code-server/server/egg-example/node_modules/egg-view/lib/view_manager.js:74:5)
+    at async ContextView.[contextView#render] (/usr/code-server/server/egg-example/node_modules/egg-view/lib/context_view.js:50:22)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 12161
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-30 16:56:00,920 ERROR 12161 nodejs.AssertionError: Can't find hoome/index from /usr/code-server/server/egg-example/app/view
+    at Map.resolve (/usr/code-server/server/egg-example/node_modules/egg-view/lib/view_manager.js:74:5)
+    at async ContextView.[contextView#render] (/usr/code-server/server/egg-example/node_modules/egg-view/lib/context_view.js:50:22)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 12161
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-30 17:00:40,831 ERROR 12866 [-/116.23.92.93/-/4ms GET /home] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/usr/code-server/server/egg-example/node_modules/egg/lib/application.js:266:15)
+    at Object.get cookies [as cookies] (/usr/code-server/server/egg-example/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/usr/code-server/server/egg-example/node_modules/egg-security/app/extend/context.js:91:35)
+    at Object.ensureCsrfSecret (/usr/code-server/server/egg-example/node_modules/egg-security/app/extend/context.js:104:13)
+    at csrf (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/csrf.js:15:11)
+    at dispatch (/usr/code-server/server/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /usr/code-server/server/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/usr/code-server/server/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/usr/code-server/server/egg-example/node_modules/koa-session/index.js:41:13)
+    at dispatch (/usr/code-server/server/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+
+pid: 12866
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-30 17:00:46,564 ERROR 12927 [-/116.23.92.93/-/88ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/usr/code-server/server/egg-example/node_modules/egg/lib/application.js:266:15)
+    at Object.get cookies [as cookies] (/usr/code-server/server/egg-example/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/usr/code-server/server/egg-example/node_modules/egg-security/app/extend/context.js:91:35)
+    at Object.ensureCsrfSecret (/usr/code-server/server/egg-example/node_modules/egg-security/app/extend/context.js:104:13)
+    at csrf (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/csrf.js:15:11)
+    at dispatch (/usr/code-server/server/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /usr/code-server/server/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/usr/code-server/server/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/usr/code-server/server/egg-example/node_modules/koa-session/index.js:41:13)
+    at dispatch (/usr/code-server/server/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+
+pid: 12927
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-30 17:01:46,539 ERROR 13117 [-/116.23.92.93/-/4ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/usr/code-server/server/egg-example/node_modules/egg/lib/application.js:266:15)
+    at Object.get cookies [as cookies] (/usr/code-server/server/egg-example/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/usr/code-server/server/egg-example/node_modules/egg-security/app/extend/context.js:91:35)
+    at Object.ensureCsrfSecret (/usr/code-server/server/egg-example/node_modules/egg-security/app/extend/context.js:104:13)
+    at csrf (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/csrf.js:15:11)
+    at dispatch (/usr/code-server/server/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /usr/code-server/server/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/usr/code-server/server/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/usr/code-server/server/egg-example/node_modules/koa-session/index.js:41:13)
+    at dispatch (/usr/code-server/server/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+
+pid: 13117
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-30 17:01:47,290 ERROR 13117 [-/116.23.92.93/-/1ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/usr/code-server/server/egg-example/node_modules/egg/lib/application.js:266:15)
+    at Object.get cookies [as cookies] (/usr/code-server/server/egg-example/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/usr/code-server/server/egg-example/node_modules/egg-security/app/extend/context.js:91:35)
+    at Object.ensureCsrfSecret (/usr/code-server/server/egg-example/node_modules/egg-security/app/extend/context.js:104:13)
+    at csrf (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/csrf.js:15:11)
+    at dispatch (/usr/code-server/server/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /usr/code-server/server/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/usr/code-server/server/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/usr/code-server/server/egg-example/node_modules/koa-session/index.js:41:13)
+    at dispatch (/usr/code-server/server/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+
+pid: 13117
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+
+2021-09-30 17:01:59,082 ERROR 13270 [-/116.23.92.93/-/5ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/usr/code-server/server/egg-example/node_modules/egg/lib/application.js:266:15)
+    at Object.get cookies [as cookies] (/usr/code-server/server/egg-example/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/usr/code-server/server/egg-example/node_modules/egg-security/app/extend/context.js:91:35)
+    at Object.ensureCsrfSecret (/usr/code-server/server/egg-example/node_modules/egg-security/app/extend/context.js:104:13)
+    at csrf (/usr/code-server/server/egg-example/node_modules/egg-security/lib/middlewares/csrf.js:15:11)
+    at dispatch (/usr/code-server/server/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /usr/code-server/server/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/usr/code-server/server/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/usr/code-server/server/egg-example/node_modules/koa-session/index.js:41:13)
+    at dispatch (/usr/code-server/server/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+
+pid: 13270
+hostname: iZwz9agh7rzyrv9f8jdwwxZ
+

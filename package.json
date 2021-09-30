@@ -1,0 +1,23 @@
+{
+  "name": "egg-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "egg-bin dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "egg": "^2.30.0",
+    "egg-mysql": "^3.0.0",
+    "egg-redis": "^2.4.0",
+    "egg-view-nunjucks": "^2.3.0",
+    "sha256": "^0.2.0",
+    "shelljs": "^0.8.4",
+    "stream-wormhole": "^1.1.0"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.16.4"
+  }
+}
