@@ -2,6 +2,8 @@ const sha256 = require("sha256");
 const path = require("path");
 const fs = require("fs");
 const shell = require("shelljs");
+const { resolve } = require("path");
+const { rejects } = require("assert");
 const Service = require("egg").Service;
 
 class ScpService extends Service {
@@ -35,41 +37,43 @@ class ScpService extends Service {
   }
 
   async scpUpload({ file = "" }) {
-    function streamToBuffer(stream) {
-      return new Promise((resolve, reject) => {
-        let buffers = [];
-        stream.on("error", reject);
-        stream.on("data", (data) => buffers.push(data));
-        stream.on("end", () => resolve(Buffer.concat(buffers)));
+    return new Promise(async (resolve) => {
+      function streamToBuffer(stream) {
+        return new Promise((resolve, reject) => {
+          let buffers = [];
+          stream.on("error", reject);
+          stream.on("data", (data) => buffers.push(data));
+          stream.on("end", () => resolve(Buffer.concat(buffers)));
+        });
+      }
+      const filePath = path.resolve(process.cwd() + "/app/public", "dist.tgz");
+      // 创建写入流
+      const buffer = await streamToBuffer(file);
+      var writerStream = fs.createWriteStream(filePath);
+      writerStream.write(buffer, "UTF8");
+      writerStream.end();
+      writerStream.on("finish", function () {
+        shell.exec(`tar -zxvf ${filePath}`);
+        // 删除public下旧dist
+        shell.exec(
+          `rm -rf ${path.resolve(process.cwd() + "/app/public", "dist")}`
+        );
+        // 移动新dist到public下
+        shell.exec(
+          `cp -arf ${path.resolve(process.cwd(), "dist")} ${path.resolve(
+            process.cwd() + "/app/public"
+          )}`
+        );
+        // 删除根部dist
+        shell.exec(`rm -rf ${path.resolve(process.cwd(), "dist")}`);
+        // 删除压缩包
+        shell.exec(`rm -f ${filePath}`);
+        resolve({ code: 0, msg: "scp上传成功", data: null });
       });
-    }
-    const filePath = path.resolve(process.cwd() + "/app/public", "dist.tgz");
-    // 创建写入流
-    const buffer = await streamToBuffer(file);
-    var writerStream = fs.createWriteStream(filePath);
-    writerStream.write(buffer, "UTF8");
-    writerStream.end();
-    writerStream.on("finish", function () {
-      shell.exec(`tar -zxvf ${filePath}`);
-      // 删除public下旧dist
-      shell.exec(
-        `rm -rf ${path.resolve(process.cwd() + "/app/public", "dist")}`
-      );
-      // 移动新dist到public下
-      shell.exec(
-        `cp -arf ${path.resolve(process.cwd(), "dist")} ${path.resolve(
-          process.cwd() + "/app/public"
-        )}`
-      );
-      // 删除根部dist
-      shell.exec(`rm -rf ${path.resolve(process.cwd(), "dist")}`);
-      // 删除压缩包
-      shell.exec(`rm -f ${filePath}`);
-      return { code: 0, msg: "scp上传成功", data: null };
-    });
 
-    writerStream.on("error", function (err) {
-      return { code: -2, msg: "scp上传失败", data: null };
+      writerStream.on("error", function (err) {
+        resolve({ code: -2, msg: "scp上传失败", data: null });
+      });
     });
   }
 }

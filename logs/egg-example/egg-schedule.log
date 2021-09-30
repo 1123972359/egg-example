@@ -2860,3 +2860,21 @@
 2021-09-30 17:05:09,516 INFO 13970 [egg-schedule]: register schedule /usr/code-server/server/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
 2021-09-30 17:05:09,516 INFO 13970 [egg-schedule]: register schedule /usr/code-server/server/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
 2021-09-30 17:05:09,516 INFO 13970 [egg-schedule]: register schedule /usr/code-server/server/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-30 18:41:57,113 INFO 30751 [egg-schedule]: register schedule /usr/code-server/server/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-30 18:41:57,113 INFO 30751 [egg-schedule]: register schedule /usr/code-server/server/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-30 18:41:57,113 INFO 30751 [egg-schedule]: register schedule /usr/code-server/server/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-30 18:41:57,647 INFO 30739 [Timer] /usr/code-server/server/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 35282363ms at 2021-10-01 04:30:00.010
+2021-09-30 18:41:57,647 INFO 30739 [Timer] /usr/code-server/server/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 19082353ms at 2021-10-01 00:00:00.000
+2021-09-30 18:41:57,648 INFO 30739 [Timer] /usr/code-server/server/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 19083353ms at 2021-10-01 00:00:01.001
+2021-09-30 18:46:09,547 INFO 31721 [egg-schedule]: register schedule /usr/code-server/server/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-30 18:46:09,547 INFO 31721 [egg-schedule]: register schedule /usr/code-server/server/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-30 18:46:09,547 INFO 31721 [egg-schedule]: register schedule /usr/code-server/server/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-30 18:46:20,882 INFO 31912 [egg-schedule]: register schedule /usr/code-server/server/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-30 18:46:20,883 INFO 31912 [egg-schedule]: register schedule /usr/code-server/server/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-30 18:46:20,883 INFO 31912 [egg-schedule]: register schedule /usr/code-server/server/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-30 18:46:22,288 INFO 31925 [egg-schedule]: register schedule /usr/code-server/server/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-30 18:46:22,288 INFO 31925 [egg-schedule]: register schedule /usr/code-server/server/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-30 18:46:22,288 INFO 31925 [egg-schedule]: register schedule /usr/code-server/server/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-30 18:46:24,153 INFO 31946 [egg-schedule]: register schedule /usr/code-server/server/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-30 18:46:24,153 INFO 31946 [egg-schedule]: register schedule /usr/code-server/server/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-30 18:46:24,153 INFO 31946 [egg-schedule]: register schedule /usr/code-server/server/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js

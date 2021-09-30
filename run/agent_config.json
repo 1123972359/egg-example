@@ -12,7 +12,7 @@
       "protocolWhiteList": [],
       "defaultMiddleware": "csrf,hsts,methodnoallow,noopen,nosniff,csp,xssProtection,xframe,dta",
       "csrf": {
-        "enable": true,
+        "enable": false,
         "type": "ctoken",
         "ignoreJSON": false,
         "useSession": false,
@@ -110,9 +110,12 @@
       "fieldNameSize": 100,
       "fieldSize": "100kb",
       "fields": 10,
-      "fileSize": "10mb",
+      "fileSize": "50mb",
       "files": 10,
-      "fileExtensions": [],
+      "fileExtensions": [
+        ".rar",
+        ".tgz"
+      ],
       "whitelist": null,
       "allowArrayField": false,
       "tmpdir": "/tmp/egg-multipart-tmp/egg-example",
@@ -151,9 +154,7 @@
       "cache": false,
       "defaultExtension": ".html",
       "defaultViewEngine": "",
-      "mapping": {
-        ".html": "nunjucks"
-      }
+      "mapping": {}
     },
     "mysql": {
       "default": {
@@ -161,24 +162,30 @@
         "connectionLimit": 5
       },
       "app": true,
-      "agent": false
+      "agent": false,
+      "client": {
+        "host": "localhost",
+        "port": "3306",
+        "user": "root",
+        "password": "<String len: 4>",
+        "database": "blog"
+      }
     },
     "redis": {
       "default": {},
       "app": true,
       "agent": false,
-      "supportTimeCommand": true
-    },
-    "nunjucks": {
-      "autoescape": true,
-      "throwOnUndefined": false,
-      "trimBlocks": false,
-      "lstripBlocks": false,
-      "cache": false
+      "supportTimeCommand": true,
+      "client": {
+        "port": 6379,
+        "host": "127.0.0.1",
+        "password": "<String len: 0>",
+        "db": 0
+      }
     },
     "env": "local",
     "name": "egg-example",
-    "keys": "<String len: 0>",
+    "keys": "<String len: 10>",
     "cookies": {},
     "proxy": false,
     "maxIpsCount": 0,
@@ -306,6 +313,10 @@
       "responseTimeout": 60000
     },
     "onClientError": null,
+    "news": {
+      "pageSize": 5,
+      "serverUrl": "https://hacker-news.firebaseio.com/v0"
+    },
     "coreMiddlewares": "~config~coreMiddleware",
     "appMiddlewares": [],
     "appMiddleware": "~config~appMiddlewares"
@@ -478,20 +489,6 @@
       "from": "/usr/code-server/server/egg-example/config/plugin.js",
       "path": "/usr/code-server/server/egg-example/node_modules/egg-redis",
       "version": "2.4.0"
-    },
-    "nunjucks": {
-      "enable": true,
-      "package": "egg-view-nunjucks",
-      "name": "nunjucks",
-      "dependencies": [
-        "security",
-        "view"
-      ],
-      "optionalDependencies": [],
-      "env": [],
-      "from": "/usr/code-server/server/egg-example/config/plugin.js",
-      "path": "/usr/code-server/server/egg-example/node_modules/egg-view-nunjucks",
-      "version": "2.3.0"
     }
   }
 }

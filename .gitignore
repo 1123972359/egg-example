@@ -1,9 +1,7 @@
 .DS_Store
 node_modules
+public/
 /dist
-/usr/code-server/server/egg-example/app/public/dist
-egg-example/app/public/dist
-/egg-example/app/public/dist
 dist.tgz
 dist.rar
 
